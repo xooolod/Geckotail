@@ -118,7 +118,7 @@ class GeckoTail {
         this.isValidType(network, 'string', "Network must be a valid string.");
         this.isArrayValid(addressesArray, "Addresses must be a non-empty array.");
         const addresses = this.arrayToString(addressesArray);
-        return this.executeQuery(`/simple/networks/${network}/${addresses}`);
+        return this.executeQuery(`/simple/networks/${network}/token_price/${addresses}`);
     }
 
     /**
