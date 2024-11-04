@@ -6,6 +6,7 @@ Geckotail is simple, lightweight (only one dependency!) package for interacting 
 
 *The project is not yet finished! Some of the methods are still in development. Stay tuned!*
 
+- [View on Github](https://github.com/xooolod/Geckotail)
 - [View on NPM](https://www.npmjs.com/package/geckotail)
 - [Open a PR](https://github.com/xooolod/Geckotail/pulls)
 
@@ -27,10 +28,6 @@ async function tonDexList () {
 tonDexList(); // List of DEXes on TON network
 ```
 
-# Available methods:
-
-Coming soon...
-
 # Docs
 
-Coming soon...
+- [View docs (Under construction 👷)](https://github.com/xooolod/Geckotail/wiki/Docs)
